@@ -1,0 +1,12 @@
+- Get high res scan
+- Identify white background color
+- Filter by background color
+- Clean up between blocks manually
+- Export resulting map as numpy array
+- Export unique x and y values from array
+- Iterate through values, overlay image with lines, and save good boundaries
+- Iterate through boundaries, split image, and save to Category subdirs with filenames and unique IDs
+- Run OCR on files to map ID to text
+
+- Latex template?
+- Program to present image, with editable text field to convert text to latex
